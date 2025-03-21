@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.039d0770.css",
-    "main.js": "/static/js/main.a3d51b56.js",
-    "static/media/event-1.png": "/static/media/event-1.2e4689faa805213208f8.png",
-    "static/media/event-3.png": "/static/media/event-3.ddc9f27732cf43d5001a.png",
-    "static/media/event-2.png": "/static/media/event-2.0d3ecda3d10015ed8904.png",
-    "static/media/logo.png": "/static/media/logo.b9a70cabf4dd130f3eb7.png",
-    "static/media/about.jpg": "/static/media/about.e63f479c9286ab6791b0.jpg",
-    "static/media/Leaf2.png": "/static/media/Leaf2.afd776a27cb2cb4bcdbd.png",
-    "static/media/Leaf1.png": "/static/media/Leaf1.100ce38053c8a7976426.png",
-    "index.html": "/index.html",
-    "main.039d0770.css.map": "/static/css/main.039d0770.css.map",
-    "main.a3d51b56.js.map": "/static/js/main.a3d51b56.js.map"
+    "main.css": "/dash_portal/static/css/main.039d0770.css",
+    "main.js": "/dash_portal/static/js/main.0891f89a.js",
+    "static/media/event-1.png": "/dash_portal/static/media/event-1.2e4689faa805213208f8.png",
+    "static/media/event-3.png": "/dash_portal/static/media/event-3.ddc9f27732cf43d5001a.png",
+    "static/media/event-2.png": "/dash_portal/static/media/event-2.0d3ecda3d10015ed8904.png",
+    "static/media/logo.png": "/dash_portal/static/media/logo.b9a70cabf4dd130f3eb7.png",
+    "static/media/about.jpg": "/dash_portal/static/media/about.e63f479c9286ab6791b0.jpg",
+    "static/media/Leaf2.png": "/dash_portal/static/media/Leaf2.afd776a27cb2cb4bcdbd.png",
+    "static/media/Leaf1.png": "/dash_portal/static/media/Leaf1.100ce38053c8a7976426.png",
+    "index.html": "/dash_portal/index.html",
+    "main.039d0770.css.map": "/dash_portal/static/css/main.039d0770.css.map",
+    "main.0891f89a.js.map": "/dash_portal/static/js/main.0891f89a.js.map"
   },
   "entrypoints": [
     "static/css/main.039d0770.css",
-    "static/js/main.a3d51b56.js"
+    "static/js/main.0891f89a.js"
   ]
 }
